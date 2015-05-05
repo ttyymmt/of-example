@@ -3,3 +3,4 @@
 *.xcodeproj/*
 !*.xcodeproj/project.pbxproj
 !*.xcworkspace/contents.xcworkspacedata
+emptyExample.xcodeproj/project.xcworkspace/xcuserdata/yamamoto.xcuserdatad/UserInterfaceState.xcuserstate
